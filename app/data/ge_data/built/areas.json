@@ -1,0 +1,626 @@
+[
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "11",
+            "properties": {
+                  "built": 1748679.1968318413
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "12",
+            "properties": {
+                  "built": 2215353.73357471
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "13",
+            "properties": {
+                  "built": 2264386.696771467
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "15",
+            "properties": {
+                  "built": 2223616.5999968103
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "16",
+            "properties": {
+                  "built": 2341621.117392073
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "18",
+            "properties": {
+                  "built": 459.7343400098739
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "19",
+            "properties": {
+                  "built": 0
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "21",
+            "properties": {
+                  "built": 2400770.968807103
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "22",
+            "properties": {
+                  "built": 2356047.3739694296
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "23",
+            "properties": {
+                  "built": 2323698.805960539
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "24",
+            "properties": {
+                  "built": 2382485.0239065164
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "25",
+            "properties": {
+                  "built": 2315635.99894332
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "26",
+            "properties": {
+                  "built": 839167.2959872473
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "27",
+            "properties": {
+                  "built": 2389128.6140166703
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "28",
+            "properties": {
+                  "built": 1100040.6352925773
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "29",
+            "properties": {
+                  "built": 146559.05585180153
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "30",
+            "properties": {
+                  "built": 2344.4091849041397
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "32",
+            "properties": {
+                  "built": 882.1835583775718
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "34",
+            "properties": {
+                  "built": 1901646.223405027
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "35",
+            "properties": {
+                  "built": 2092215.3765952159
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "36",
+            "properties": {
+                  "built": 2350462.964111529
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "37",
+            "properties": {
+                  "built": 2337553.473802748
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "38",
+            "properties": {
+                  "built": 2398319.6623594463
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "39",
+            "properties": {
+                  "built": 2680266.0885655754
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "40",
+            "properties": {
+                  "built": 1712599.9756652245
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "41",
+            "properties": {
+                  "built": 40809.83729746362
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "43",
+            "properties": {
+                  "built": 14.256483472796958
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "44",
+            "properties": {
+                  "built": 84153.09277918785
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "45",
+            "properties": {
+                  "built": 2432757.9043553565
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "46",
+            "properties": {
+                  "built": 2551365.8099305113
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "47",
+            "properties": {
+                  "built": 2448155.144185069
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "48",
+            "properties": {
+                  "built": 2423801.1378637124
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "49",
+            "properties": {
+                  "built": 2525802.755071548
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "50",
+            "properties": {
+                  "built": 2485702.3220074098
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "51",
+            "properties": {
+                  "built": 2563230.520325012
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "52",
+            "properties": {
+                  "built": 2862128.6561554666
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "53",
+            "properties": {
+                  "built": 97654.74157075986
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "54",
+            "properties": {
+                  "built": 1.9763733924676978
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "55",
+            "properties": {
+                  "built": 0
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "56",
+            "properties": {
+                  "built": 37823.71107830146
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "57",
+            "properties": {
+                  "built": 1149.938986828327
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "58",
+            "properties": {
+                  "built": 2023006.7390798964
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "59",
+            "properties": {
+                  "built": 298053.0609875426
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "60",
+            "properties": {
+                  "built": 2572788.785503353
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "61",
+            "properties": {
+                  "built": 2537907.1274218378
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "62",
+            "properties": {
+                  "built": 2650645.2254989045
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "63",
+            "properties": {
+                  "built": 2716857.6211764324
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "64",
+            "properties": {
+                  "built": 275241.15874240216
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "66",
+            "properties": {
+                  "built": 408799.5865729393
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "69",
+            "properties": {
+                  "built": 2382305.1475735367
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "70",
+            "properties": {
+                  "built": 244339.6769411977
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "71",
+            "properties": {
+                  "built": 2513544.574227837
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "72",
+            "properties": {
+                  "built": 2607818.734803916
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "73",
+            "properties": {
+                  "built": 2587790.838482388
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "74",
+            "properties": {
+                  "built": 2643296.4288192913
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "75",
+            "properties": {
+                  "built": 1498863.6617891563
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "76",
+            "properties": {
+                  "built": 2239056.03944902
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "77",
+            "properties": {
+                  "built": 1784951.6334432336
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "80",
+            "properties": {
+                  "built": 0
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "81",
+            "properties": {
+                  "built": 0
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "83",
+            "properties": {
+                  "built": 2568987.505804034
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "84",
+            "properties": {
+                  "built": 2669529.2316350946
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "85",
+            "properties": {
+                  "built": 2682890.25416041
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "86",
+            "properties": {
+                  "built": 2679008.415950475
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "87",
+            "properties": {
+                  "built": 2199981.486055818
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "88",
+            "properties": {
+                  "built": 1842079.704964077
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "89",
+            "properties": {
+                  "built": 605004.7738875619
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "90",
+            "properties": {
+                  "built": 11568.053374797293
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "91",
+            "properties": {
+                  "built": 158686.64396358884
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "92",
+            "properties": {
+                  "built": 2300340.972768819
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "93",
+            "properties": {
+                  "built": 2668602.1546377065
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "94",
+            "properties": {
+                  "built": 948729.3631139772
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "95",
+            "properties": {
+                  "built": 2709432.5338719953
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "96",
+            "properties": {
+                  "built": 2718818.0774405175
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "97",
+            "properties": {
+                  "built": 2742002.674990594
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "98",
+            "properties": {
+                  "built": 2758665.513928334
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "99",
+            "properties": {
+                  "built": 2937241.818679332
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "100",
+            "properties": {
+                  "built": 2940716.9897549124
+            }
+      }
+]

@@ -1,0 +1,5 @@
+numpy
+Flask
+plotly
+pandas
+matplotlib

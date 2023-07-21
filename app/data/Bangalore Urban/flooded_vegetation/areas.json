@@ -1,0 +1,782 @@
+[
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "11",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 12,
+                  "year": 2015
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "12",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 1,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "13",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 2,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "15",
+            "properties": {
+                  "flooded_vegetation": 1,
+                  "month": 4,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "16",
+            "properties": {
+                  "flooded_vegetation": 2,
+                  "month": 5,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "18",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 7,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "19",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 8,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "21",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 10,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "22",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 11,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "23",
+            "properties": {
+                  "flooded_vegetation": 2,
+                  "month": 12,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "24",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 1,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "25",
+            "properties": {
+                  "flooded_vegetation": 31,
+                  "month": 2,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "26",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 3,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "27",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 4,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "28",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 5,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "29",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 6,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "30",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 7,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "32",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 9,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "34",
+            "properties": {
+                  "flooded_vegetation": 25,
+                  "month": 11,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "35",
+            "properties": {
+                  "flooded_vegetation": 1,
+                  "month": 12,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "36",
+            "properties": {
+                  "flooded_vegetation": 18,
+                  "month": 1,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "37",
+            "properties": {
+                  "flooded_vegetation": 58,
+                  "month": 2,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "38",
+            "properties": {
+                  "flooded_vegetation": 2,
+                  "month": 3,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "39",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 4,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "40",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 5,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "41",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 6,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "43",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 8,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "44",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 9,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "45",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 10,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "46",
+            "properties": {
+                  "flooded_vegetation": 51,
+                  "month": 11,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "47",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 12,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "48",
+            "properties": {
+                  "flooded_vegetation": 14,
+                  "month": 1,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "49",
+            "properties": {
+                  "flooded_vegetation": 3,
+                  "month": 2,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "50",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 3,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "51",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 4,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "52",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 5,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "53",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 6,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "54",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 7,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "55",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 8,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "56",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 9,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "57",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 10,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "58",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 11,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "59",
+            "properties": {
+                  "flooded_vegetation": 1,
+                  "month": 12,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "60",
+            "properties": {
+                  "flooded_vegetation": 2,
+                  "month": 1,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "61",
+            "properties": {
+                  "flooded_vegetation": 46,
+                  "month": 2,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "62",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 3,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "63",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 4,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "64",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 5,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "66",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 7,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "69",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 10,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "70",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 11,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "71",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 12,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "72",
+            "properties": {
+                  "flooded_vegetation": 31,
+                  "month": 1,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "73",
+            "properties": {
+                  "flooded_vegetation": 116,
+                  "month": 2,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "74",
+            "properties": {
+                  "flooded_vegetation": 133,
+                  "month": 3,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "75",
+            "properties": {
+                  "flooded_vegetation": 36,
+                  "month": 4,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "76",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 5,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "77",
+            "properties": {
+                  "flooded_vegetation": 6,
+                  "month": 6,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "80",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 9,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "81",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 10,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "83",
+            "properties": {
+                  "flooded_vegetation": 4,
+                  "month": 12,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "84",
+            "properties": {
+                  "flooded_vegetation": 14,
+                  "month": 1,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "85",
+            "properties": {
+                  "flooded_vegetation": 82,
+                  "month": 2,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "86",
+            "properties": {
+                  "flooded_vegetation": 1,
+                  "month": 3,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "87",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 4,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "88",
+            "properties": {
+                  "flooded_vegetation": 50,
+                  "month": 5,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "89",
+            "properties": {
+                  "flooded_vegetation": 46.513725490196066,
+                  "month": 6,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "90",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 7,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "91",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 8,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "92",
+            "properties": {
+                  "flooded_vegetation": 25,
+                  "month": 9,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "93",
+            "properties": {
+                  "flooded_vegetation": 758,
+                  "month": 10,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "94",
+            "properties": {
+                  "flooded_vegetation": 0,
+                  "month": 11,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "95",
+            "properties": {
+                  "flooded_vegetation": 498,
+                  "month": 12,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "96",
+            "properties": {
+                  "flooded_vegetation": 542,
+                  "month": 1,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "97",
+            "properties": {
+                  "flooded_vegetation": 938,
+                  "month": 2,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "98",
+            "properties": {
+                  "flooded_vegetation": 389,
+                  "month": 3,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "99",
+            "properties": {
+                  "flooded_vegetation": 98,
+                  "month": 4,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "100",
+            "properties": {
+                  "flooded_vegetation": 2,
+                  "month": 5,
+                  "year": 2023
+            }
+      }
+]

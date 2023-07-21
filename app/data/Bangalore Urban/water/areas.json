@@ -1,0 +1,782 @@
+[
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "11",
+            "properties": {
+                  "month": 12,
+                  "water": 28868.399999999998,
+                  "year": 2015
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "12",
+            "properties": {
+                  "month": 1,
+                  "water": 36764.76470588235,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "13",
+            "properties": {
+                  "month": 2,
+                  "water": 33184.60392156862,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "15",
+            "properties": {
+                  "month": 4,
+                  "water": 23332.925490196074,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "16",
+            "properties": {
+                  "month": 5,
+                  "water": 23778.51764705882,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "18",
+            "properties": {
+                  "month": 7,
+                  "water": 0,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "19",
+            "properties": {
+                  "month": 8,
+                  "water": 0,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "21",
+            "properties": {
+                  "month": 10,
+                  "water": 32361.556862745092,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "22",
+            "properties": {
+                  "month": 11,
+                  "water": 33281.25882352941,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "23",
+            "properties": {
+                  "month": 12,
+                  "water": 33805.25882352941,
+                  "year": 2016
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "24",
+            "properties": {
+                  "month": 1,
+                  "water": 32302.258823529406,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "25",
+            "properties": {
+                  "month": 2,
+                  "water": 30486.258823529406,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "26",
+            "properties": {
+                  "month": 3,
+                  "water": 10554.878431372543,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "27",
+            "properties": {
+                  "month": 4,
+                  "water": 22250.035294117642,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "28",
+            "properties": {
+                  "month": 5,
+                  "water": 8471.105882352942,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "29",
+            "properties": {
+                  "month": 6,
+                  "water": 340,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "30",
+            "properties": {
+                  "month": 7,
+                  "water": 0,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "32",
+            "properties": {
+                  "month": 9,
+                  "water": 0,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "34",
+            "properties": {
+                  "month": 11,
+                  "water": 34317.76470588236,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "35",
+            "properties": {
+                  "month": 12,
+                  "water": 45276.49411764709,
+                  "year": 2017
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "36",
+            "properties": {
+                  "month": 1,
+                  "water": 57930.29019607843,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "37",
+            "properties": {
+                  "month": 2,
+                  "water": 58397.57647058823,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "38",
+            "properties": {
+                  "month": 3,
+                  "water": 50423.34117647058,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "39",
+            "properties": {
+                  "month": 4,
+                  "water": 41867.799999999996,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "40",
+            "properties": {
+                  "month": 5,
+                  "water": 21973.270588235308,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "41",
+            "properties": {
+                  "month": 6,
+                  "water": 10,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "43",
+            "properties": {
+                  "month": 8,
+                  "water": 0,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "44",
+            "properties": {
+                  "month": 9,
+                  "water": 3560.4588235294113,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "45",
+            "properties": {
+                  "month": 10,
+                  "water": 45393.85882352941,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "46",
+            "properties": {
+                  "month": 11,
+                  "water": 44670.61176470588,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "47",
+            "properties": {
+                  "month": 12,
+                  "water": 40095.90196078431,
+                  "year": 2018
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "48",
+            "properties": {
+                  "month": 1,
+                  "water": 40394.61176470588,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "49",
+            "properties": {
+                  "month": 2,
+                  "water": 36025.61176470588,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "50",
+            "properties": {
+                  "month": 3,
+                  "water": 32030.611764705878,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "51",
+            "properties": {
+                  "month": 4,
+                  "water": 27259.376470588228,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "52",
+            "properties": {
+                  "month": 5,
+                  "water": 23377.364705882348,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "53",
+            "properties": {
+                  "month": 6,
+                  "water": 0,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "54",
+            "properties": {
+                  "month": 7,
+                  "water": 0,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "55",
+            "properties": {
+                  "month": 8,
+                  "water": 0,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "56",
+            "properties": {
+                  "month": 9,
+                  "water": 19,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "57",
+            "properties": {
+                  "month": 10,
+                  "water": 0,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "58",
+            "properties": {
+                  "month": 11,
+                  "water": 32572.282352941176,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "59",
+            "properties": {
+                  "month": 12,
+                  "water": 8062.780392156863,
+                  "year": 2019
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "60",
+            "properties": {
+                  "month": 1,
+                  "water": 36663.25882352941,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "61",
+            "properties": {
+                  "month": 2,
+                  "water": 37106.25882352941,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "62",
+            "properties": {
+                  "month": 3,
+                  "water": 28565.48235294117,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "63",
+            "properties": {
+                  "month": 4,
+                  "water": 24086.258823529406,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "64",
+            "properties": {
+                  "month": 5,
+                  "water": 569.0431372549019,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "66",
+            "properties": {
+                  "month": 7,
+                  "water": 8332.03137254902,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "69",
+            "properties": {
+                  "month": 10,
+                  "water": 27660.466666666667,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "70",
+            "properties": {
+                  "month": 11,
+                  "water": 1426.1372549019607,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "71",
+            "properties": {
+                  "month": 12,
+                  "water": 33839.819607843136,
+                  "year": 2020
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "72",
+            "properties": {
+                  "month": 1,
+                  "water": 40048.67058823529,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "73",
+            "properties": {
+                  "month": 2,
+                  "water": 39136.905882352934,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "74",
+            "properties": {
+                  "month": 3,
+                  "water": 36488.141176470584,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "75",
+            "properties": {
+                  "month": 4,
+                  "water": 13923.592156862745,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "76",
+            "properties": {
+                  "month": 5,
+                  "water": 21634.05490196078,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "77",
+            "properties": {
+                  "month": 6,
+                  "water": 15694.780392156863,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "80",
+            "properties": {
+                  "month": 9,
+                  "water": 0,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "81",
+            "properties": {
+                  "month": 10,
+                  "water": 0,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "83",
+            "properties": {
+                  "month": 12,
+                  "water": 45600.38431372548,
+                  "year": 2021
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "84",
+            "properties": {
+                  "month": 1,
+                  "water": 42966.06666666666,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "85",
+            "properties": {
+                  "month": 2,
+                  "water": 43890.450980392154,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "86",
+            "properties": {
+                  "month": 3,
+                  "water": 40006.43921568627,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "87",
+            "properties": {
+                  "month": 4,
+                  "water": 20524.38823529412,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "88",
+            "properties": {
+                  "month": 5,
+                  "water": 14130.482352941179,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "89",
+            "properties": {
+                  "month": 6,
+                  "water": 6982.176470588235,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "90",
+            "properties": {
+                  "month": 7,
+                  "water": 0,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "91",
+            "properties": {
+                  "month": 8,
+                  "water": 2518.4588235294113,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "92",
+            "properties": {
+                  "month": 9,
+                  "water": 38692.384313725495,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "93",
+            "properties": {
+                  "month": 10,
+                  "water": 58893.42352941176,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "94",
+            "properties": {
+                  "month": 11,
+                  "water": 20691.61960784314,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "95",
+            "properties": {
+                  "month": 12,
+                  "water": 65981.80392156861,
+                  "year": 2022
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "96",
+            "properties": {
+                  "month": 1,
+                  "water": 66379.2,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "97",
+            "properties": {
+                  "month": 2,
+                  "water": 65353.2,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "98",
+            "properties": {
+                  "month": 3,
+                  "water": 59863.90196078431,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "99",
+            "properties": {
+                  "month": 4,
+                  "water": 49918.4431372549,
+                  "year": 2023
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "100",
+            "properties": {
+                  "month": 5,
+                  "water": 43358.67450980392,
+                  "year": 2023
+            }
+      }
+]

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style1.css') }}"> -->
+    <title>Swimtraxx Algo</title>
+</head>
+<body>
+   <h3>Graph plots</h3>
+   <form id="graph_plots" action="" method="post">
+   {% for image in image_data %}
+        <h2>{{bands[loop.index-1]}}</h2>
+        <div id='chart_{{bands[loop.index-1]}}' class='chart'></div>
+        <script src="{{url_for('static', filename='plotly-latest.min.js')}}"></script>
+        <script type='text/javascript'>
+        var graphs = {{image | safe}};
+        Plotly.plot('chart_{{bands[loop.index-1]}}',graphs,{});
+        </script>
+        
+        {% endfor %}
+    </form>
+    
+    
+</body>
+</html>
