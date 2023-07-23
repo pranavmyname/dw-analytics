@@ -24,7 +24,7 @@
             "geometry": null,
             "id": "13",
             "properties": {
-                  "crops": 14,
+                  "crops": 6,
                   "month": 2,
                   "year": 2016
             }
@@ -34,7 +34,7 @@
             "geometry": null,
             "id": "15",
             "properties": {
-                  "crops": 70,
+                  "crops": 3,
                   "month": 4,
                   "year": 2016
             }
@@ -44,7 +44,7 @@
             "geometry": null,
             "id": "16",
             "properties": {
-                  "crops": 14,
+                  "crops": 20,
                   "month": 5,
                   "year": 2016
             }
@@ -54,7 +54,7 @@
             "geometry": null,
             "id": "18",
             "properties": {
-                  "crops": 0,
+                  "crops": 20,
                   "month": 7,
                   "year": 2016
             }
@@ -64,7 +64,7 @@
             "geometry": null,
             "id": "19",
             "properties": {
-                  "crops": 0,
+                  "crops": 20,
                   "month": 8,
                   "year": 2016
             }
@@ -74,7 +74,7 @@
             "geometry": null,
             "id": "21",
             "properties": {
-                  "crops": 31,
+                  "crops": 41,
                   "month": 10,
                   "year": 2016
             }
@@ -84,7 +84,7 @@
             "geometry": null,
             "id": "22",
             "properties": {
-                  "crops": 5,
+                  "crops": 4,
                   "month": 11,
                   "year": 2016
             }
@@ -94,7 +94,7 @@
             "geometry": null,
             "id": "23",
             "properties": {
-                  "crops": 0,
+                  "crops": 15,
                   "month": 12,
                   "year": 2016
             }
@@ -104,7 +104,7 @@
             "geometry": null,
             "id": "24",
             "properties": {
-                  "crops": 3,
+                  "crops": 2,
                   "month": 1,
                   "year": 2017
             }
@@ -114,7 +114,7 @@
             "geometry": null,
             "id": "25",
             "properties": {
-                  "crops": 2,
+                  "crops": 3,
                   "month": 2,
                   "year": 2017
             }
@@ -124,7 +124,7 @@
             "geometry": null,
             "id": "26",
             "properties": {
-                  "crops": 0,
+                  "crops": 31,
                   "month": 3,
                   "year": 2017
             }
@@ -134,7 +134,7 @@
             "geometry": null,
             "id": "27",
             "properties": {
-                  "crops": 3,
+                  "crops": 2,
                   "month": 4,
                   "year": 2017
             }
@@ -144,7 +144,7 @@
             "geometry": null,
             "id": "28",
             "properties": {
-                  "crops": 7,
+                  "crops": 73,
                   "month": 5,
                   "year": 2017
             }
@@ -154,7 +154,7 @@
             "geometry": null,
             "id": "29",
             "properties": {
-                  "crops": 27,
+                  "crops": 83,
                   "month": 6,
                   "year": 2017
             }
@@ -164,7 +164,7 @@
             "geometry": null,
             "id": "30",
             "properties": {
-                  "crops": 0,
+                  "crops": 83,
                   "month": 7,
                   "year": 2017
             }
@@ -174,7 +174,7 @@
             "geometry": null,
             "id": "32",
             "properties": {
-                  "crops": 0,
+                  "crops": 83,
                   "month": 9,
                   "year": 2017
             }
@@ -184,7 +184,7 @@
             "geometry": null,
             "id": "34",
             "properties": {
-                  "crops": 8.003921568627451,
+                  "crops": 57.00392156862745,
                   "month": 11,
                   "year": 2017
             }
@@ -194,7 +194,7 @@
             "geometry": null,
             "id": "35",
             "properties": {
-                  "crops": 4,
+                  "crops": 20,
                   "month": 12,
                   "year": 2017
             }
@@ -214,7 +214,7 @@
             "geometry": null,
             "id": "37",
             "properties": {
-                  "crops": 46,
+                  "crops": 38,
                   "month": 2,
                   "year": 2018
             }
@@ -234,7 +234,7 @@
             "geometry": null,
             "id": "39",
             "properties": {
-                  "crops": 13,
+                  "crops": 18,
                   "month": 4,
                   "year": 2018
             }
@@ -254,7 +254,7 @@
             "geometry": null,
             "id": "41",
             "properties": {
-                  "crops": 1,
+                  "crops": 54,
                   "month": 6,
                   "year": 2018
             }
@@ -264,7 +264,7 @@
             "geometry": null,
             "id": "43",
             "properties": {
-                  "crops": 0,
+                  "crops": 55,
                   "month": 8,
                   "year": 2018
             }
@@ -274,7 +274,7 @@
             "geometry": null,
             "id": "44",
             "properties": {
-                  "crops": 1,
+                  "crops": 55,
                   "month": 9,
                   "year": 2018
             }
@@ -284,7 +284,7 @@
             "geometry": null,
             "id": "45",
             "properties": {
-                  "crops": 9,
+                  "crops": 26,
                   "month": 10,
                   "year": 2018
             }
@@ -294,7 +294,7 @@
             "geometry": null,
             "id": "46",
             "properties": {
-                  "crops": 5,
+                  "crops": 10,
                   "month": 11,
                   "year": 2018
             }
@@ -314,7 +314,7 @@
             "geometry": null,
             "id": "48",
             "properties": {
-                  "crops": 6,
+                  "crops": 7,
                   "month": 1,
                   "year": 2019
             }
@@ -324,7 +324,7 @@
             "geometry": null,
             "id": "49",
             "properties": {
-                  "crops": 10,
+                  "crops": 12,
                   "month": 2,
                   "year": 2019
             }
@@ -334,7 +334,7 @@
             "geometry": null,
             "id": "50",
             "properties": {
-                  "crops": 5,
+                  "crops": 8,
                   "month": 3,
                   "year": 2019
             }
@@ -344,7 +344,7 @@
             "geometry": null,
             "id": "51",
             "properties": {
-                  "crops": 1,
+                  "crops": 2,
                   "month": 4,
                   "year": 2019
             }
@@ -354,7 +354,7 @@
             "geometry": null,
             "id": "52",
             "properties": {
-                  "crops": 26.04705882352941,
+                  "crops": 70.04705882352941,
                   "month": 5,
                   "year": 2019
             }
@@ -364,7 +364,7 @@
             "geometry": null,
             "id": "53",
             "properties": {
-                  "crops": 43.00392156862745,
+                  "crops": 98.06274509803922,
                   "month": 6,
                   "year": 2019
             }
@@ -374,7 +374,7 @@
             "geometry": null,
             "id": "54",
             "properties": {
-                  "crops": 0,
+                  "crops": 138.06666666666666,
                   "month": 7,
                   "year": 2019
             }
@@ -384,7 +384,7 @@
             "geometry": null,
             "id": "55",
             "properties": {
-                  "crops": 0,
+                  "crops": 138.06666666666666,
                   "month": 8,
                   "year": 2019
             }
@@ -394,7 +394,7 @@
             "geometry": null,
             "id": "56",
             "properties": {
-                  "crops": 91,
+                  "crops": 210.00392156862745,
                   "month": 9,
                   "year": 2019
             }
@@ -404,7 +404,7 @@
             "geometry": null,
             "id": "57",
             "properties": {
-                  "crops": 0,
+                  "crops": 210.00392156862745,
                   "month": 10,
                   "year": 2019
             }
@@ -414,7 +414,7 @@
             "geometry": null,
             "id": "58",
             "properties": {
-                  "crops": 5,
+                  "crops": 25,
                   "month": 11,
                   "year": 2019
             }
@@ -424,7 +424,7 @@
             "geometry": null,
             "id": "59",
             "properties": {
-                  "crops": 0,
+                  "crops": 25,
                   "month": 12,
                   "year": 2019
             }
@@ -444,7 +444,7 @@
             "geometry": null,
             "id": "61",
             "properties": {
-                  "crops": 9,
+                  "crops": 15,
                   "month": 2,
                   "year": 2020
             }
@@ -454,7 +454,7 @@
             "geometry": null,
             "id": "62",
             "properties": {
-                  "crops": 6,
+                  "crops": 3,
                   "month": 3,
                   "year": 2020
             }
@@ -464,7 +464,7 @@
             "geometry": null,
             "id": "63",
             "properties": {
-                  "crops": 3,
+                  "crops": 19,
                   "month": 4,
                   "year": 2020
             }
@@ -474,7 +474,7 @@
             "geometry": null,
             "id": "64",
             "properties": {
-                  "crops": 0,
+                  "crops": 8,
                   "month": 5,
                   "year": 2020
             }
@@ -484,7 +484,7 @@
             "geometry": null,
             "id": "66",
             "properties": {
-                  "crops": 26,
+                  "crops": 8,
                   "month": 7,
                   "year": 2020
             }
@@ -494,7 +494,7 @@
             "geometry": null,
             "id": "69",
             "properties": {
-                  "crops": 42,
+                  "crops": 60,
                   "month": 10,
                   "year": 2020
             }
@@ -504,7 +504,7 @@
             "geometry": null,
             "id": "70",
             "properties": {
-                  "crops": 0,
+                  "crops": 42,
                   "month": 11,
                   "year": 2020
             }
@@ -524,7 +524,7 @@
             "geometry": null,
             "id": "72",
             "properties": {
-                  "crops": 1,
+                  "crops": 0,
                   "month": 1,
                   "year": 2021
             }
@@ -534,7 +534,7 @@
             "geometry": null,
             "id": "73",
             "properties": {
-                  "crops": 8,
+                  "crops": 10,
                   "month": 2,
                   "year": 2021
             }
@@ -544,7 +544,7 @@
             "geometry": null,
             "id": "74",
             "properties": {
-                  "crops": 38,
+                  "crops": 35,
                   "month": 3,
                   "year": 2021
             }
@@ -554,7 +554,7 @@
             "geometry": null,
             "id": "75",
             "properties": {
-                  "crops": 11,
+                  "crops": 18,
                   "month": 4,
                   "year": 2021
             }
@@ -564,7 +564,7 @@
             "geometry": null,
             "id": "76",
             "properties": {
-                  "crops": 143,
+                  "crops": 116,
                   "month": 5,
                   "year": 2021
             }
@@ -574,7 +574,7 @@
             "geometry": null,
             "id": "77",
             "properties": {
-                  "crops": 214.56470588235294,
+                  "crops": 305.07450980392156,
                   "month": 6,
                   "year": 2021
             }
@@ -584,7 +584,7 @@
             "geometry": null,
             "id": "80",
             "properties": {
-                  "crops": 0,
+                  "crops": 304.078431372549,
                   "month": 9,
                   "year": 2021
             }
@@ -594,7 +594,7 @@
             "geometry": null,
             "id": "81",
             "properties": {
-                  "crops": 0,
+                  "crops": 304.078431372549,
                   "month": 10,
                   "year": 2021
             }
@@ -614,7 +614,7 @@
             "geometry": null,
             "id": "84",
             "properties": {
-                  "crops": 17,
+                  "crops": 6,
                   "month": 1,
                   "year": 2022
             }
@@ -624,7 +624,7 @@
             "geometry": null,
             "id": "85",
             "properties": {
-                  "crops": 0,
+                  "crops": 1,
                   "month": 2,
                   "year": 2022
             }
@@ -644,7 +644,7 @@
             "geometry": null,
             "id": "87",
             "properties": {
-                  "crops": 10,
+                  "crops": 1,
                   "month": 4,
                   "year": 2022
             }
@@ -654,7 +654,7 @@
             "geometry": null,
             "id": "88",
             "properties": {
-                  "crops": 86,
+                  "crops": 23,
                   "month": 5,
                   "year": 2022
             }
@@ -664,7 +664,7 @@
             "geometry": null,
             "id": "89",
             "properties": {
-                  "crops": 60,
+                  "crops": 74,
                   "month": 6,
                   "year": 2022
             }
@@ -674,7 +674,7 @@
             "geometry": null,
             "id": "90",
             "properties": {
-                  "crops": 0,
+                  "crops": 116,
                   "month": 7,
                   "year": 2022
             }
@@ -684,7 +684,7 @@
             "geometry": null,
             "id": "91",
             "properties": {
-                  "crops": 24,
+                  "crops": 138,
                   "month": 8,
                   "year": 2022
             }
@@ -694,7 +694,7 @@
             "geometry": null,
             "id": "92",
             "properties": {
-                  "crops": 0,
+                  "crops": 11,
                   "month": 9,
                   "year": 2022
             }
@@ -704,7 +704,7 @@
             "geometry": null,
             "id": "93",
             "properties": {
-                  "crops": 21,
+                  "crops": 22,
                   "month": 10,
                   "year": 2022
             }
@@ -714,7 +714,7 @@
             "geometry": null,
             "id": "94",
             "properties": {
-                  "crops": 5,
+                  "crops": 8,
                   "month": 11,
                   "year": 2022
             }
@@ -724,7 +724,7 @@
             "geometry": null,
             "id": "95",
             "properties": {
-                  "crops": 7,
+                  "crops": 0,
                   "month": 12,
                   "year": 2022
             }
@@ -734,7 +734,7 @@
             "geometry": null,
             "id": "96",
             "properties": {
-                  "crops": 8,
+                  "crops": 6,
                   "month": 1,
                   "year": 2023
             }
@@ -744,7 +744,7 @@
             "geometry": null,
             "id": "97",
             "properties": {
-                  "crops": 23,
+                  "crops": 16,
                   "month": 2,
                   "year": 2023
             }
@@ -754,28 +754,8 @@
             "geometry": null,
             "id": "98",
             "properties": {
-                  "crops": 1,
+                  "crops": 4,
                   "month": 3,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "99",
-            "properties": {
-                  "crops": 7,
-                  "month": 4,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "100",
-            "properties": {
-                  "crops": 92,
-                  "month": 5,
                   "year": 2023
             }
       }

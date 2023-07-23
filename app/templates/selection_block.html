@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <!-- <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style1.css') }}"> -->
+        <title>Selection Block</title>
+        <style>
+            table, th, td {
+              border:1px solid black;
+            }
+            </style>
+    </head>
+    <body>
+        <form id="select_months" action="" method="get">
+            <script language="JavaScript">
+                function toggle(source) {
+                    checkboxes = document.getElementsByName('month');
+                    for(var i=0, n=checkboxes.length;i<n;i++) {
+                        checkboxes[i].checked = source.checked;
+                    }
+                }
+            </script>
+            <input type="checkbox" onClick="toggle(this)" /> Select All
+            {% for option in months_list %}
+                <input type="checkbox" name = "month" value="{{ option }}" {{ "checked" if months_box[ loop.index-1 ] else "" }}>
+                <label for="{{ option }}">{{ option }}</label>
+            {% endfor %}
+        <br />
+        <label for="x_axis">Select your x-axis for advanced view:</label>
+        <select id="x_axis" name="x_axis">
+            <option value="month" {{ "selected" if x_axis=="month"}}>Month</option>
+            <option value="year" {{ "selected" if x_axis=="year"}}>Year</option>
+        </select>
+        <br/>
+            <input type="submit" name="view" value="Simple"/>
+            <input type="submit" name="view" value="Advanced"/>
+        </form>
+    {% block content %} {% endblock %}
+
+    
+    </body>
+    
+</html>

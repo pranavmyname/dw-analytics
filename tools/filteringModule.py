@@ -41,6 +41,19 @@ def forward_filln(collection):
     filled_collection = ee.ImageCollection.fromImages(ee.List(filled_images).flatten())
     return filled_collection, filled_image
 
+def mosaicSamedayImage(collection):
+    def computeMossaic(date):
+        d = ee.Date(date)
+        filteredCollection = collection.filterDate(d, d.advance(1, "day"))
+        mosaic = filteredCollection.mosaic()
+        return mosaic.set('day', d.format('dd')).set('month', d.format('MM')).set('year', d.format('YYYY')).set('system:time_start', d.millis())
+    
+    unique_dates = collection.toList(collection.size()).map(lambda im:
+    ee.Image(im).date().format("YYYY-MM-dd")
+    ).distinct()
+    mosaic_list = unique_dates.map(computeMossaic)
+    return  ee.ImageCollection(mosaic_list)
+
 # Define a function to compute median images for each month in a collection
 def computeMonthlyMedians(collection):
     # Define a list of years to loop over
@@ -52,10 +65,10 @@ def computeMonthlyMedians(collection):
     # Define a function to filter the collection by year and month and compute median
     def computeMonthlyMedian(year, month):
         filteredCollection = collection.filterDate(ee.Date.fromYMD(year, month, 1), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))
-        median = filteredCollection.mode()
+        median = filteredCollection.median()
         # mossaic = (collection.filterDate(ee.Date.fromYMD(year, month, 1).advance(-300, 'day'), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))).mode()
         # median.unmask(mossaic)
-        return median.set('month', month).set('year', year).set('system:time_start', ee.Date.fromYMD(year, month, 1))
+        return median.set('month', month).set('year', year).set('system:time_start', ee.Date.fromYMD(year, month, 1).millis())
     
 
     # Map the function over the years and months and create a new collection

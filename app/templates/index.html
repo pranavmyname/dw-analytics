@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends "selection_block.html" %}
+{% block content %}
 <head>
     <meta charset="UTF-8">
     <!-- <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style1.css') }}"> -->
-    <title>Swimtraxx Algo</title>
+    <title>Simple view</title>
 </head>
-<body>
+
    <h3>Graph plots</h3>
    <form id="graph_plots" action="" method="post">
    {% for image in image_data %}
@@ -21,5 +21,5 @@
     </form>
     
     
-</body>
-</html>
+
+{% endblock %}
