@@ -32,7 +32,7 @@ bands = ['built', 'crops', 'flooded_vegetation', 'trees', 'water']
 df_list = []
 for band in bands:
     feature_list = json.load(open(f'data/Bangalore Urban/{band}/areas.json', 'r'))
-    areas = (np.array([i.get('properties').get(band) for i in feature_list])*20)**2
+    areas = (np.array([i.get('properties').get('label') for i in feature_list])*20)**2
     month_data = np.array([i.get('properties').get('month') for i in feature_list])
     year_data = np.array([i.get('properties').get('year') for i in feature_list])
     df = pd.DataFrame({"year": year_data, "month": month_data, "areas": areas})

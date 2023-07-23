@@ -4,8 +4,8 @@
             "geometry": null,
             "id": "11",
             "properties": {
+                  "label": 2009561.2196078307,
                   "month": 12,
-                  "trees": 231354.17647058735,
                   "year": 2015
             }
       },
@@ -14,8 +14,8 @@
             "geometry": null,
             "id": "12",
             "properties": {
+                  "label": 2827922.8352941256,
                   "month": 1,
-                  "trees": 175429.54117647058,
                   "year": 2016
             }
       },
@@ -24,8 +24,8 @@
             "geometry": null,
             "id": "13",
             "properties": {
+                  "label": 2519720.5137254973,
                   "month": 2,
-                  "trees": 57086.62745098039,
                   "year": 2016
             }
       },
@@ -34,8 +34,8 @@
             "geometry": null,
             "id": "15",
             "properties": {
+                  "label": 1833979.4941176516,
                   "month": 4,
-                  "trees": 15852.356862745099,
                   "year": 2016
             }
       },
@@ -44,8 +44,8 @@
             "geometry": null,
             "id": "16",
             "properties": {
+                  "label": 1048963.0784313737,
                   "month": 5,
-                  "trees": 9521.258823529412,
                   "year": 2016
             }
       },
@@ -54,8 +54,8 @@
             "geometry": null,
             "id": "18",
             "properties": {
+                  "label": 1049582.31764706,
                   "month": 7,
-                  "trees": 9641.50588235294,
                   "year": 2016
             }
       },
@@ -64,8 +64,8 @@
             "geometry": null,
             "id": "19",
             "properties": {
+                  "label": 1049486.7411764718,
                   "month": 8,
-                  "trees": 9645.941176470587,
                   "year": 2016
             }
       },
@@ -74,8 +74,8 @@
             "geometry": null,
             "id": "21",
             "properties": {
+                  "label": 2383687.4039215744,
                   "month": 10,
-                  "trees": 157626.12156862728,
                   "year": 2016
             }
       },
@@ -84,8 +84,8 @@
             "geometry": null,
             "id": "22",
             "properties": {
+                  "label": 2651037.415686282,
                   "month": 11,
-                  "trees": 88840.65098039215,
                   "year": 2016
             }
       },
@@ -94,8 +94,8 @@
             "geometry": null,
             "id": "23",
             "properties": {
+                  "label": 2051730.2156862793,
                   "month": 12,
-                  "trees": 98572.7568627451,
                   "year": 2016
             }
       },
@@ -104,8 +104,8 @@
             "geometry": null,
             "id": "24",
             "properties": {
+                  "label": 2340569.8745098095,
                   "month": 1,
-                  "trees": 60767.89803921569,
                   "year": 2017
             }
       },
@@ -114,8 +114,8 @@
             "geometry": null,
             "id": "25",
             "properties": {
+                  "label": 2150372.984313731,
                   "month": 2,
-                  "trees": 35759.541176470586,
                   "year": 2017
             }
       },
@@ -124,8 +124,8 @@
             "geometry": null,
             "id": "26",
             "properties": {
+                  "label": 1492419.7372549027,
                   "month": 3,
-                  "trees": 20750.78823529412,
                   "year": 2017
             }
       },
@@ -134,8 +134,8 @@
             "geometry": null,
             "id": "27",
             "properties": {
+                  "label": 1016099.7764705897,
                   "month": 4,
-                  "trees": 964,
                   "year": 2017
             }
       },
@@ -144,8 +144,8 @@
             "geometry": null,
             "id": "28",
             "properties": {
+                  "label": 723597.8274509801,
                   "month": 5,
-                  "trees": 701.0039215686274,
                   "year": 2017
             }
       },
@@ -154,8 +154,8 @@
             "geometry": null,
             "id": "29",
             "properties": {
+                  "label": 722252.8313725488,
                   "month": 6,
-                  "trees": 1568.0039215686274,
                   "year": 2017
             }
       },
@@ -164,8 +164,8 @@
             "geometry": null,
             "id": "30",
             "properties": {
+                  "label": 722529.1176470587,
                   "month": 7,
-                  "trees": 1568.0039215686274,
                   "year": 2017
             }
       },
@@ -174,8 +174,8 @@
             "geometry": null,
             "id": "32",
             "properties": {
+                  "label": 722633.345098039,
                   "month": 9,
-                  "trees": 1568.0039215686274,
                   "year": 2017
             }
       },
@@ -184,8 +184,8 @@
             "geometry": null,
             "id": "34",
             "properties": {
+                  "label": 2648950.8901960794,
                   "month": 11,
-                  "trees": 420389.9058823526,
                   "year": 2017
             }
       },
@@ -194,8 +194,8 @@
             "geometry": null,
             "id": "35",
             "properties": {
+                  "label": 2781072.788235297,
                   "month": 12,
-                  "trees": 386383.2862745093,
                   "year": 2017
             }
       },
@@ -204,8 +204,8 @@
             "geometry": null,
             "id": "36",
             "properties": {
+                  "label": 2817243.1843137345,
                   "month": 1,
-                  "trees": 219471.14117647056,
                   "year": 2018
             }
       },
@@ -214,8 +214,8 @@
             "geometry": null,
             "id": "37",
             "properties": {
+                  "label": 2280454.023529418,
                   "month": 2,
-                  "trees": 90250.88235294117,
                   "year": 2018
             }
       },
@@ -224,8 +224,8 @@
             "geometry": null,
             "id": "38",
             "properties": {
+                  "label": 1650951.4901960813,
                   "month": 3,
-                  "trees": 20422.13333333333,
                   "year": 2018
             }
       },
@@ -234,8 +234,8 @@
             "geometry": null,
             "id": "39",
             "properties": {
+                  "label": 1238181.7725490215,
                   "month": 4,
-                  "trees": 12750.560784313726,
                   "year": 2018
             }
       },
@@ -244,8 +244,8 @@
             "geometry": null,
             "id": "40",
             "properties": {
+                  "label": 1460562.8078431394,
                   "month": 5,
-                  "trees": 10407.96862745098,
                   "year": 2018
             }
       },
@@ -254,8 +254,8 @@
             "geometry": null,
             "id": "41",
             "properties": {
+                  "label": 1378067.847058823,
                   "month": 6,
-                  "trees": 15419.047058823535,
                   "year": 2018
             }
       },
@@ -264,8 +264,8 @@
             "geometry": null,
             "id": "43",
             "properties": {
+                  "label": 1365578.7294117636,
                   "month": 8,
-                  "trees": 15594.231372549024,
                   "year": 2018
             }
       },
@@ -274,8 +274,8 @@
             "geometry": null,
             "id": "44",
             "properties": {
+                  "label": 1397066.2862745079,
                   "month": 9,
-                  "trees": 18283.552941176484,
                   "year": 2018
             }
       },
@@ -284,8 +284,8 @@
             "geometry": null,
             "id": "45",
             "properties": {
+                  "label": 2383972.3686274597,
                   "month": 10,
-                  "trees": 119405.74901960789,
                   "year": 2018
             }
       },
@@ -294,8 +294,8 @@
             "geometry": null,
             "id": "46",
             "properties": {
+                  "label": 2982691.360784322,
                   "month": 11,
-                  "trees": 301400.10196078423,
                   "year": 2018
             }
       },
@@ -304,8 +304,8 @@
             "geometry": null,
             "id": "47",
             "properties": {
+                  "label": 2687777.039215693,
                   "month": 12,
-                  "trees": 126806.54901960783,
                   "year": 2018
             }
       },
@@ -314,8 +314,8 @@
             "geometry": null,
             "id": "48",
             "properties": {
+                  "label": 2506679.82352942,
                   "month": 1,
-                  "trees": 78420.00784313725,
                   "year": 2019
             }
       },
@@ -324,8 +324,8 @@
             "geometry": null,
             "id": "49",
             "properties": {
+                  "label": 1747941.3764705933,
                   "month": 2,
-                  "trees": 29509.384313725488,
                   "year": 2019
             }
       },
@@ -334,8 +334,8 @@
             "geometry": null,
             "id": "50",
             "properties": {
+                  "label": 1175004.7803921585,
                   "month": 3,
-                  "trees": 5185,
                   "year": 2019
             }
       },
@@ -344,8 +344,8 @@
             "geometry": null,
             "id": "51",
             "properties": {
+                  "label": 878002.7215686288,
                   "month": 4,
-                  "trees": 3475,
                   "year": 2019
             }
       },
@@ -354,8 +354,8 @@
             "geometry": null,
             "id": "52",
             "properties": {
+                  "label": 1112405.8039215705,
                   "month": 5,
-                  "trees": 3553,
                   "year": 2019
             }
       },
@@ -364,8 +364,8 @@
             "geometry": null,
             "id": "53",
             "properties": {
+                  "label": 1100573.0274509818,
                   "month": 6,
-                  "trees": 3543,
                   "year": 2019
             }
       },
@@ -374,8 +374,8 @@
             "geometry": null,
             "id": "54",
             "properties": {
+                  "label": 1096314.6117647071,
                   "month": 7,
-                  "trees": 3514,
                   "year": 2019
             }
       },
@@ -384,8 +384,8 @@
             "geometry": null,
             "id": "55",
             "properties": {
+                  "label": 1096314.6117647071,
                   "month": 8,
-                  "trees": 3514,
                   "year": 2019
             }
       },
@@ -394,8 +394,8 @@
             "geometry": null,
             "id": "56",
             "properties": {
+                  "label": 1129997.6980392162,
                   "month": 9,
-                  "trees": 12771.172549019644,
                   "year": 2019
             }
       },
@@ -404,8 +404,8 @@
             "geometry": null,
             "id": "57",
             "properties": {
+                  "label": 1130179.0666666673,
                   "month": 10,
-                  "trees": 12771.172549019644,
                   "year": 2019
             }
       },
@@ -414,8 +414,8 @@
             "geometry": null,
             "id": "58",
             "properties": {
+                  "label": 3090124.5058823577,
                   "month": 11,
-                  "trees": 357359.0784313724,
                   "year": 2019
             }
       },
@@ -424,8 +424,8 @@
             "geometry": null,
             "id": "59",
             "properties": {
+                  "label": 3063949.2000000007,
                   "month": 12,
-                  "trees": 364777.1215686268,
                   "year": 2019
             }
       },
@@ -434,8 +434,8 @@
             "geometry": null,
             "id": "60",
             "properties": {
+                  "label": 2752604.207843146,
                   "month": 1,
-                  "trees": 193711.8470588235,
                   "year": 2020
             }
       },
@@ -444,8 +444,8 @@
             "geometry": null,
             "id": "61",
             "properties": {
+                  "label": 1917562.9058823576,
                   "month": 2,
-                  "trees": 64469.83921568627,
                   "year": 2020
             }
       },
@@ -454,8 +454,8 @@
             "geometry": null,
             "id": "62",
             "properties": {
+                  "label": 1345488.1882352964,
                   "month": 3,
-                  "trees": 19143.160784313724,
                   "year": 2020
             }
       },
@@ -464,8 +464,8 @@
             "geometry": null,
             "id": "63",
             "properties": {
+                  "label": 834388.6784313733,
                   "month": 4,
-                  "trees": 12864,
                   "year": 2020
             }
       },
@@ -474,8 +474,8 @@
             "geometry": null,
             "id": "64",
             "properties": {
+                  "label": 875486.8156862748,
                   "month": 5,
-                  "trees": 11923.525490196078,
                   "year": 2020
             }
       },
@@ -484,8 +484,8 @@
             "geometry": null,
             "id": "66",
             "properties": {
+                  "label": 1228533.3294117665,
                   "month": 7,
-                  "trees": 11665.592156862745,
                   "year": 2020
             }
       },
@@ -494,8 +494,8 @@
             "geometry": null,
             "id": "69",
             "properties": {
+                  "label": 1537095.7803921597,
                   "month": 10,
-                  "trees": 58538.878431372555,
                   "year": 2020
             }
       },
@@ -504,8 +504,8 @@
             "geometry": null,
             "id": "70",
             "properties": {
+                  "label": 3250983.8784313705,
                   "month": 11,
-                  "trees": 465720.92156862706,
                   "year": 2020
             }
       },
@@ -514,8 +514,8 @@
             "geometry": null,
             "id": "71",
             "properties": {
+                  "label": 3510303.749019611,
                   "month": 12,
-                  "trees": 371376.6666666666,
                   "year": 2020
             }
       },
@@ -524,8 +524,8 @@
             "geometry": null,
             "id": "72",
             "properties": {
+                  "label": 2722158.0745098116,
                   "month": 1,
-                  "trees": 261632.41176470587,
                   "year": 2021
             }
       },
@@ -534,8 +534,8 @@
             "geometry": null,
             "id": "73",
             "properties": {
+                  "label": 2128794.768627457,
                   "month": 2,
-                  "trees": 102294.76470588235,
                   "year": 2021
             }
       },
@@ -544,8 +544,8 @@
             "geometry": null,
             "id": "74",
             "properties": {
+                  "label": 1286934.1137254923,
                   "month": 3,
-                  "trees": 30352.478431372547,
                   "year": 2021
             }
       },
@@ -554,8 +554,8 @@
             "geometry": null,
             "id": "75",
             "properties": {
+                  "label": 1047464.4392156872,
                   "month": 4,
-                  "trees": 9197.180392156863,
                   "year": 2021
             }
       },
@@ -564,8 +564,8 @@
             "geometry": null,
             "id": "76",
             "properties": {
+                  "label": 928296.5254901971,
                   "month": 5,
-                  "trees": 10280.184313725491,
                   "year": 2021
             }
       },
@@ -574,8 +574,8 @@
             "geometry": null,
             "id": "77",
             "properties": {
+                  "label": 1091033.8901960773,
                   "month": 6,
-                  "trees": 24364.84705882359,
                   "year": 2021
             }
       },
@@ -584,8 +584,8 @@
             "geometry": null,
             "id": "80",
             "properties": {
+                  "label": 1087732.8078431336,
                   "month": 9,
-                  "trees": 24274.701960784383,
                   "year": 2021
             }
       },
@@ -594,8 +594,8 @@
             "geometry": null,
             "id": "81",
             "properties": {
+                  "label": 1087732.8078431338,
                   "month": 10,
-                  "trees": 24274.701960784376,
                   "year": 2021
             }
       },
@@ -604,8 +604,8 @@
             "geometry": null,
             "id": "83",
             "properties": {
+                  "label": 3442750.019607846,
                   "month": 12,
-                  "trees": 568103.9333333333,
                   "year": 2021
             }
       },
@@ -614,8 +614,8 @@
             "geometry": null,
             "id": "84",
             "properties": {
+                  "label": 3120289.9176470656,
                   "month": 1,
-                  "trees": 547215.5764705882,
                   "year": 2022
             }
       },
@@ -624,8 +624,8 @@
             "geometry": null,
             "id": "85",
             "properties": {
+                  "label": 2089375.2196078494,
                   "month": 2,
-                  "trees": 138301.7960784314,
                   "year": 2022
             }
       },
@@ -634,8 +634,8 @@
             "geometry": null,
             "id": "86",
             "properties": {
+                  "label": 1539538.6705882382,
                   "month": 3,
-                  "trees": 25782.239215686277,
                   "year": 2022
             }
       },
@@ -644,8 +644,8 @@
             "geometry": null,
             "id": "87",
             "properties": {
+                  "label": 1295707.1960784318,
                   "month": 4,
-                  "trees": 14677.262745098038,
                   "year": 2022
             }
       },
@@ -654,8 +654,8 @@
             "geometry": null,
             "id": "88",
             "properties": {
+                  "label": 1240122.1215686267,
                   "month": 5,
-                  "trees": 15254.094117647066,
                   "year": 2022
             }
       },
@@ -664,8 +664,8 @@
             "geometry": null,
             "id": "89",
             "properties": {
+                  "label": 1507265.6784313684,
                   "month": 6,
-                  "trees": 24206.545098039238,
                   "year": 2022
             }
       },
@@ -674,8 +674,8 @@
             "geometry": null,
             "id": "90",
             "properties": {
+                  "label": 1451093.254901955,
                   "month": 7,
-                  "trees": 31807.6117647059,
                   "year": 2022
             }
       },
@@ -684,8 +684,8 @@
             "geometry": null,
             "id": "91",
             "properties": {
+                  "label": 1508563.1294117568,
                   "month": 8,
-                  "trees": 33518.1098039216,
                   "year": 2022
             }
       },
@@ -694,8 +694,8 @@
             "geometry": null,
             "id": "92",
             "properties": {
+                  "label": 2531196.6156862816,
                   "month": 9,
-                  "trees": 318734.1568627451,
                   "year": 2022
             }
       },
@@ -704,8 +704,8 @@
             "geometry": null,
             "id": "93",
             "properties": {
+                  "label": 3597382.850980396,
                   "month": 10,
-                  "trees": 667863.0627450983,
                   "year": 2022
             }
       },
@@ -714,8 +714,8 @@
             "geometry": null,
             "id": "94",
             "properties": {
+                  "label": 3954735.549019602,
                   "month": 11,
-                  "trees": 501812.32156862755,
                   "year": 2022
             }
       },
@@ -724,8 +724,8 @@
             "geometry": null,
             "id": "95",
             "properties": {
+                  "label": 3744989.709803925,
                   "month": 12,
-                  "trees": 464127.031372549,
                   "year": 2022
             }
       },
@@ -734,8 +734,8 @@
             "geometry": null,
             "id": "96",
             "properties": {
+                  "label": 2711145.000000008,
                   "month": 1,
-                  "trees": 338852.0705882353,
                   "year": 2023
             }
       },
@@ -744,8 +744,8 @@
             "geometry": null,
             "id": "97",
             "properties": {
+                  "label": 1980041.031372555,
                   "month": 2,
-                  "trees": 107209.30588235293,
                   "year": 2023
             }
       },
@@ -754,8 +754,8 @@
             "geometry": null,
             "id": "98",
             "properties": {
+                  "label": 1497080.7921568663,
                   "month": 3,
-                  "trees": 35989.28627450981,
                   "year": 2023
             }
       }

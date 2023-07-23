@@ -55,9 +55,9 @@ def mosaicSamedayImage(collection):
     return  ee.ImageCollection(mosaic_list)
 
 # Define a function to compute median images for each month in a collection
-def computeMonthlyMedians(collection):
+def computeMonthlyMedians(collection, year_start = 2015, year_end = 2023):
     # Define a list of years to loop over
-    years = ee.List.sequence(2015, 2023)
+    years = ee.List.sequence(year_start, year_end)
 
     # Define a list of months to loop over
     months = ee.List.sequence(1, 12)
@@ -65,7 +65,7 @@ def computeMonthlyMedians(collection):
     # Define a function to filter the collection by year and month and compute median
     def computeMonthlyMedian(year, month):
         filteredCollection = collection.filterDate(ee.Date.fromYMD(year, month, 1), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))
-        median = filteredCollection.median()
+        median = filteredCollection.mode()
         # mossaic = (collection.filterDate(ee.Date.fromYMD(year, month, 1).advance(-300, 'day'), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))).mode()
         # median.unmask(mossaic)
         return median.set('month', month).set('year', year).set('system:time_start', ee.Date.fromYMD(year, month, 1).millis())
