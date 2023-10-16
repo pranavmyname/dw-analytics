@@ -4,7 +4,7 @@
             "geometry": null,
             "id": "11",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 19399.976470588237,
                   "month": 12,
                   "year": 2015
             }
@@ -14,7 +14,7 @@
             "geometry": null,
             "id": "12",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 19854,
                   "month": 1,
                   "year": 2016
             }
@@ -24,7 +24,7 @@
             "geometry": null,
             "id": "13",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 26027.007843137253,
                   "month": 2,
                   "year": 2016
             }
@@ -34,7 +34,7 @@
             "geometry": null,
             "id": "15",
             "properties": {
-                  "flooded_vegetation": 1,
+                  "label": 20366.909803921568,
                   "month": 4,
                   "year": 2016
             }
@@ -44,7 +44,7 @@
             "geometry": null,
             "id": "16",
             "properties": {
-                  "flooded_vegetation": 2,
+                  "label": 19634.027450980393,
                   "month": 5,
                   "year": 2016
             }
@@ -54,7 +54,7 @@
             "geometry": null,
             "id": "18",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 19634.027450980393,
                   "month": 7,
                   "year": 2016
             }
@@ -64,7 +64,7 @@
             "geometry": null,
             "id": "19",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 19634.027450980393,
                   "month": 8,
                   "year": 2016
             }
@@ -74,7 +74,7 @@
             "geometry": null,
             "id": "21",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 24205.662745098038,
                   "month": 10,
                   "year": 2016
             }
@@ -84,7 +84,7 @@
             "geometry": null,
             "id": "22",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 15116.235294117647,
                   "month": 11,
                   "year": 2016
             }
@@ -94,7 +94,7 @@
             "geometry": null,
             "id": "23",
             "properties": {
-                  "flooded_vegetation": 2,
+                  "label": 15284.235294117647,
                   "month": 12,
                   "year": 2016
             }
@@ -104,7 +104,7 @@
             "geometry": null,
             "id": "24",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 11363,
                   "month": 1,
                   "year": 2017
             }
@@ -114,7 +114,7 @@
             "geometry": null,
             "id": "25",
             "properties": {
-                  "flooded_vegetation": 31,
+                  "label": 15182,
                   "month": 2,
                   "year": 2017
             }
@@ -124,7 +124,7 @@
             "geometry": null,
             "id": "26",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 17850.807843137256,
                   "month": 3,
                   "year": 2017
             }
@@ -134,7 +134,7 @@
             "geometry": null,
             "id": "27",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 6286.470588235294,
                   "month": 4,
                   "year": 2017
             }
@@ -144,7 +144,7 @@
             "geometry": null,
             "id": "28",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 5175.270588235295,
                   "month": 5,
                   "year": 2017
             }
@@ -154,7 +154,7 @@
             "geometry": null,
             "id": "29",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 6263.674509803921,
                   "month": 6,
                   "year": 2017
             }
@@ -164,7 +164,7 @@
             "geometry": null,
             "id": "30",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 6263.674509803921,
                   "month": 7,
                   "year": 2017
             }
@@ -174,7 +174,7 @@
             "geometry": null,
             "id": "32",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 6272.674509803921,
                   "month": 9,
                   "year": 2017
             }
@@ -184,7 +184,7 @@
             "geometry": null,
             "id": "34",
             "properties": {
-                  "flooded_vegetation": 25,
+                  "label": 44869.49411764703,
                   "month": 11,
                   "year": 2017
             }
@@ -194,7 +194,7 @@
             "geometry": null,
             "id": "35",
             "properties": {
-                  "flooded_vegetation": 1,
+                  "label": 52032.00000000002,
                   "month": 12,
                   "year": 2017
             }
@@ -204,7 +204,7 @@
             "geometry": null,
             "id": "36",
             "properties": {
-                  "flooded_vegetation": 18,
+                  "label": 53311.698039215684,
                   "month": 1,
                   "year": 2018
             }
@@ -214,7 +214,7 @@
             "geometry": null,
             "id": "37",
             "properties": {
-                  "flooded_vegetation": 58,
+                  "label": 44569.32941176471,
                   "month": 2,
                   "year": 2018
             }
@@ -224,7 +224,7 @@
             "geometry": null,
             "id": "38",
             "properties": {
-                  "flooded_vegetation": 2,
+                  "label": 36045.2705882353,
                   "month": 3,
                   "year": 2018
             }
@@ -234,7 +234,7 @@
             "geometry": null,
             "id": "39",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 29592.63529411765,
                   "month": 4,
                   "year": 2018
             }
@@ -244,7 +244,7 @@
             "geometry": null,
             "id": "40",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 22337.325490196075,
                   "month": 5,
                   "year": 2018
             }
@@ -254,7 +254,7 @@
             "geometry": null,
             "id": "41",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 26144.75294117647,
                   "month": 6,
                   "year": 2018
             }
@@ -264,7 +264,7 @@
             "geometry": null,
             "id": "43",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 26426.329411764706,
                   "month": 8,
                   "year": 2018
             }
@@ -274,7 +274,7 @@
             "geometry": null,
             "id": "44",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 26882.082352941172,
                   "month": 9,
                   "year": 2018
             }
@@ -284,7 +284,7 @@
             "geometry": null,
             "id": "45",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 28042.301960784313,
                   "month": 10,
                   "year": 2018
             }
@@ -294,7 +294,7 @@
             "geometry": null,
             "id": "46",
             "properties": {
-                  "flooded_vegetation": 51,
+                  "label": 22332.266666666666,
                   "month": 11,
                   "year": 2018
             }
@@ -304,7 +304,7 @@
             "geometry": null,
             "id": "47",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 18311.37254901961,
                   "month": 12,
                   "year": 2018
             }
@@ -314,7 +314,7 @@
             "geometry": null,
             "id": "48",
             "properties": {
-                  "flooded_vegetation": 14,
+                  "label": 14727.905882352941,
                   "month": 1,
                   "year": 2019
             }
@@ -324,7 +324,7 @@
             "geometry": null,
             "id": "49",
             "properties": {
-                  "flooded_vegetation": 3,
+                  "label": 11709.364705882352,
                   "month": 2,
                   "year": 2019
             }
@@ -334,7 +334,7 @@
             "geometry": null,
             "id": "50",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 9841.458823529412,
                   "month": 3,
                   "year": 2019
             }
@@ -344,7 +344,7 @@
             "geometry": null,
             "id": "51",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7755,
                   "month": 4,
                   "year": 2019
             }
@@ -354,7 +354,7 @@
             "geometry": null,
             "id": "52",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7803,
                   "month": 5,
                   "year": 2019
             }
@@ -364,7 +364,7 @@
             "geometry": null,
             "id": "53",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7823.023529411764,
                   "month": 6,
                   "year": 2019
             }
@@ -374,7 +374,7 @@
             "geometry": null,
             "id": "54",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7813.525490196079,
                   "month": 7,
                   "year": 2019
             }
@@ -384,7 +384,7 @@
             "geometry": null,
             "id": "55",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7813.525490196078,
                   "month": 8,
                   "year": 2019
             }
@@ -394,7 +394,7 @@
             "geometry": null,
             "id": "56",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7797.070588235294,
                   "month": 9,
                   "year": 2019
             }
@@ -404,7 +404,7 @@
             "geometry": null,
             "id": "57",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 7839.572549019607,
                   "month": 10,
                   "year": 2019
             }
@@ -414,7 +414,7 @@
             "geometry": null,
             "id": "58",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 21301.18431372549,
                   "month": 11,
                   "year": 2019
             }
@@ -424,7 +424,7 @@
             "geometry": null,
             "id": "59",
             "properties": {
-                  "flooded_vegetation": 1,
+                  "label": 21553.760784313727,
                   "month": 12,
                   "year": 2019
             }
@@ -434,7 +434,7 @@
             "geometry": null,
             "id": "60",
             "properties": {
-                  "flooded_vegetation": 2,
+                  "label": 23495,
                   "month": 1,
                   "year": 2020
             }
@@ -444,7 +444,7 @@
             "geometry": null,
             "id": "61",
             "properties": {
-                  "flooded_vegetation": 46,
+                  "label": 25412.73333333333,
                   "month": 2,
                   "year": 2020
             }
@@ -454,7 +454,7 @@
             "geometry": null,
             "id": "62",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 18675.447058823527,
                   "month": 3,
                   "year": 2020
             }
@@ -464,7 +464,7 @@
             "geometry": null,
             "id": "63",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 19820.223529411764,
                   "month": 4,
                   "year": 2020
             }
@@ -474,7 +474,7 @@
             "geometry": null,
             "id": "64",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 20751.321568627453,
                   "month": 5,
                   "year": 2020
             }
@@ -484,7 +484,7 @@
             "geometry": null,
             "id": "66",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 18700.41176470588,
                   "month": 7,
                   "year": 2020
             }
@@ -494,7 +494,7 @@
             "geometry": null,
             "id": "69",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 20070.96862745098,
                   "month": 10,
                   "year": 2020
             }
@@ -504,7 +504,7 @@
             "geometry": null,
             "id": "70",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 33108.95686274509,
                   "month": 11,
                   "year": 2020
             }
@@ -514,7 +514,7 @@
             "geometry": null,
             "id": "71",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 24544.37254901961,
                   "month": 12,
                   "year": 2020
             }
@@ -524,7 +524,7 @@
             "geometry": null,
             "id": "72",
             "properties": {
-                  "flooded_vegetation": 31,
+                  "label": 22580.70588235294,
                   "month": 1,
                   "year": 2021
             }
@@ -534,7 +534,7 @@
             "geometry": null,
             "id": "73",
             "properties": {
-                  "flooded_vegetation": 116,
+                  "label": 27623,
                   "month": 2,
                   "year": 2021
             }
@@ -544,7 +544,7 @@
             "geometry": null,
             "id": "74",
             "properties": {
-                  "flooded_vegetation": 133,
+                  "label": 26220.44705882353,
                   "month": 3,
                   "year": 2021
             }
@@ -554,7 +554,7 @@
             "geometry": null,
             "id": "75",
             "properties": {
-                  "flooded_vegetation": 36,
+                  "label": 22161.160784313728,
                   "month": 4,
                   "year": 2021
             }
@@ -564,7 +564,7 @@
             "geometry": null,
             "id": "76",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 14317.066666666668,
                   "month": 5,
                   "year": 2021
             }
@@ -574,7 +574,7 @@
             "geometry": null,
             "id": "77",
             "properties": {
-                  "flooded_vegetation": 6,
+                  "label": 13247.913725490196,
                   "month": 6,
                   "year": 2021
             }
@@ -584,7 +584,7 @@
             "geometry": null,
             "id": "80",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 13226.99607843137,
                   "month": 9,
                   "year": 2021
             }
@@ -594,7 +594,7 @@
             "geometry": null,
             "id": "81",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 13226.99607843137,
                   "month": 10,
                   "year": 2021
             }
@@ -604,7 +604,7 @@
             "geometry": null,
             "id": "83",
             "properties": {
-                  "flooded_vegetation": 4,
+                  "label": 50243.83529411764,
                   "month": 12,
                   "year": 2021
             }
@@ -614,7 +614,7 @@
             "geometry": null,
             "id": "84",
             "properties": {
-                  "flooded_vegetation": 14,
+                  "label": 64091.862745098035,
                   "month": 1,
                   "year": 2022
             }
@@ -624,7 +624,7 @@
             "geometry": null,
             "id": "85",
             "properties": {
-                  "flooded_vegetation": 82,
+                  "label": 62029.66666666666,
                   "month": 2,
                   "year": 2022
             }
@@ -634,7 +634,7 @@
             "geometry": null,
             "id": "86",
             "properties": {
-                  "flooded_vegetation": 1,
+                  "label": 54262.219607843144,
                   "month": 3,
                   "year": 2022
             }
@@ -644,7 +644,7 @@
             "geometry": null,
             "id": "87",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 50040.46666666666,
                   "month": 4,
                   "year": 2022
             }
@@ -654,7 +654,7 @@
             "geometry": null,
             "id": "88",
             "properties": {
-                  "flooded_vegetation": 50,
+                  "label": 47841.17647058822,
                   "month": 5,
                   "year": 2022
             }
@@ -664,7 +664,7 @@
             "geometry": null,
             "id": "89",
             "properties": {
-                  "flooded_vegetation": 46.513725490196066,
+                  "label": 56138.450980392176,
                   "month": 6,
                   "year": 2022
             }
@@ -674,7 +674,7 @@
             "geometry": null,
             "id": "90",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 58876.25098039217,
                   "month": 7,
                   "year": 2022
             }
@@ -684,7 +684,7 @@
             "geometry": null,
             "id": "91",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 60267.87843137254,
                   "month": 8,
                   "year": 2022
             }
@@ -694,7 +694,7 @@
             "geometry": null,
             "id": "92",
             "properties": {
-                  "flooded_vegetation": 25,
+                  "label": 100068.76078431368,
                   "month": 9,
                   "year": 2022
             }
@@ -704,7 +704,7 @@
             "geometry": null,
             "id": "93",
             "properties": {
-                  "flooded_vegetation": 758,
+                  "label": 115333.63529411764,
                   "month": 10,
                   "year": 2022
             }
@@ -714,7 +714,7 @@
             "geometry": null,
             "id": "94",
             "properties": {
-                  "flooded_vegetation": 0,
+                  "label": 70461.32941176469,
                   "month": 11,
                   "year": 2022
             }
@@ -724,7 +724,7 @@
             "geometry": null,
             "id": "95",
             "properties": {
-                  "flooded_vegetation": 498,
+                  "label": 58311.8,
                   "month": 12,
                   "year": 2022
             }
@@ -734,7 +734,7 @@
             "geometry": null,
             "id": "96",
             "properties": {
-                  "flooded_vegetation": 542,
+                  "label": 61402.498039215694,
                   "month": 1,
                   "year": 2023
             }
@@ -744,7 +744,7 @@
             "geometry": null,
             "id": "97",
             "properties": {
-                  "flooded_vegetation": 938,
+                  "label": 70154.29411764706,
                   "month": 2,
                   "year": 2023
             }
@@ -754,28 +754,8 @@
             "geometry": null,
             "id": "98",
             "properties": {
-                  "flooded_vegetation": 389,
+                  "label": 76062.69411764706,
                   "month": 3,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "99",
-            "properties": {
-                  "flooded_vegetation": 98,
-                  "month": 4,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "100",
-            "properties": {
-                  "flooded_vegetation": 2,
-                  "month": 5,
                   "year": 2023
             }
       }

@@ -10,13 +10,15 @@
    <form id="graph_plots" action="" method="post">
    {% for image in image_data %}
         <h2>{{bands[loop.index-1]}}</h2>
-        <div id='chart_{{bands[loop.index-1]}}' class='chart'></div>
+        <div id='chart_{{bands[loop.index-1]}}' class='chart'>
         <script src="{{url_for('static', filename='plotly-latest.min.js')}}"></script>
         <script type='text/javascript'>
         var graphs = {{image | safe}};
         Plotly.plot('chart_{{bands[loop.index-1]}}',graphs,{});
         </script>
-        
+        </div>
+        <input type="text" id="chart_{{bands[loop.index-1]}}" name="chart_{{bands[loop.index-1]}}">
+        <input type="submit" id="chart_{{bands[loop.index-1]}}" value="Upload">
         {% endfor %}
     </form>
     

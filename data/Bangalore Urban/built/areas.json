@@ -4,7 +4,7 @@
             "geometry": null,
             "id": "11",
             "properties": {
-                  "built": 1168830.3882352929,
+                  "label": 2395299.152941199,
                   "month": 12,
                   "year": 2015
             }
@@ -14,7 +14,7 @@
             "geometry": null,
             "id": "12",
             "properties": {
-                  "built": 1303616.9529411767,
+                  "label": 2849291.1019607875,
                   "month": 1,
                   "year": 2016
             }
@@ -24,7 +24,7 @@
             "geometry": null,
             "id": "13",
             "properties": {
-                  "built": 1319440.6784313729,
+                  "label": 2900895.3176470622,
                   "month": 2,
                   "year": 2016
             }
@@ -34,7 +34,7 @@
             "geometry": null,
             "id": "15",
             "properties": {
-                  "built": 1213809.6313725493,
+                  "label": 2936877.0823529446,
                   "month": 4,
                   "year": 2016
             }
@@ -44,7 +44,7 @@
             "geometry": null,
             "id": "16",
             "properties": {
-                  "built": 1390818.0549019612,
+                  "label": 3268072.2823529453,
                   "month": 5,
                   "year": 2016
             }
@@ -54,7 +54,7 @@
             "geometry": null,
             "id": "18",
             "properties": {
-                  "built": 17.88627450980392,
+                  "label": 3268271.094117651,
                   "month": 7,
                   "year": 2016
             }
@@ -64,7 +64,7 @@
             "geometry": null,
             "id": "19",
             "properties": {
-                  "built": 0,
+                  "label": 3268270.9058823567,
                   "month": 8,
                   "year": 2016
             }
@@ -74,7 +74,7 @@
             "geometry": null,
             "id": "21",
             "properties": {
-                  "built": 1400375.5921568633,
+                  "label": 3300361.917647063,
                   "month": 10,
                   "year": 2016
             }
@@ -84,7 +84,7 @@
             "geometry": null,
             "id": "22",
             "properties": {
-                  "built": 1390243.921568628,
+                  "label": 2977213.3490196117,
                   "month": 11,
                   "year": 2016
             }
@@ -94,7 +94,7 @@
             "geometry": null,
             "id": "23",
             "properties": {
-                  "built": 1354845.9411764708,
+                  "label": 3117031.1607843176,
                   "month": 12,
                   "year": 2016
             }
@@ -104,7 +104,7 @@
             "geometry": null,
             "id": "24",
             "properties": {
-                  "built": 1371849.615686275,
+                  "label": 3027198.6588235334,
                   "month": 1,
                   "year": 2017
             }
@@ -114,7 +114,7 @@
             "geometry": null,
             "id": "25",
             "properties": {
-                  "built": 1359412.521568628,
+                  "label": 2991218.250980396,
                   "month": 2,
                   "year": 2017
             }
@@ -124,7 +124,7 @@
             "geometry": null,
             "id": "26",
             "properties": {
-                  "built": 560445.5176470553,
+                  "label": 3186014.870588229,
                   "month": 3,
                   "year": 2017
             }
@@ -134,7 +134,7 @@
             "geometry": null,
             "id": "27",
             "properties": {
-                  "built": 1327729.7450980397,
+                  "label": 3045136.843137258,
                   "month": 4,
                   "year": 2017
             }
@@ -144,7 +144,7 @@
             "geometry": null,
             "id": "28",
             "properties": {
-                  "built": 651551.5372548992,
+                  "label": 3513039.309803919,
                   "month": 5,
                   "year": 2017
             }
@@ -154,7 +154,7 @@
             "geometry": null,
             "id": "29",
             "properties": {
-                  "built": 52422.29803921563,
+                  "label": 3520132.8980392152,
                   "month": 6,
                   "year": 2017
             }
@@ -164,7 +164,7 @@
             "geometry": null,
             "id": "30",
             "properties": {
-                  "built": 304.02745098039213,
+                  "label": 3521224.3647058816,
                   "month": 7,
                   "year": 2017
             }
@@ -174,7 +174,7 @@
             "geometry": null,
             "id": "32",
             "properties": {
-                  "built": 421.97647058823526,
+                  "label": 3521380.9960784316,
                   "month": 9,
                   "year": 2017
             }
@@ -184,7 +184,7 @@
             "geometry": null,
             "id": "34",
             "properties": {
-                  "built": 1247546.505882351,
+                  "label": 3315429.094117644,
                   "month": 11,
                   "year": 2017
             }
@@ -194,7 +194,7 @@
             "geometry": null,
             "id": "35",
             "properties": {
-                  "built": 1359724.0549019594,
+                  "label": 3348355.356862744,
                   "month": 12,
                   "year": 2017
             }
@@ -204,7 +204,7 @@
             "geometry": null,
             "id": "36",
             "properties": {
-                  "built": 1439231.588235295,
+                  "label": 3200966.9137254944,
                   "month": 1,
                   "year": 2018
             }
@@ -214,7 +214,7 @@
             "geometry": null,
             "id": "37",
             "properties": {
-                  "built": 1360041.552941177,
+                  "label": 3053310.4509803955,
                   "month": 2,
                   "year": 2018
             }
@@ -224,7 +224,7 @@
             "geometry": null,
             "id": "38",
             "properties": {
-                  "built": 1346364.4823529415,
+                  "label": 3176413.533333337,
                   "month": 3,
                   "year": 2018
             }
@@ -234,7 +234,7 @@
             "geometry": null,
             "id": "39",
             "properties": {
-                  "built": 1542993.3294117656,
+                  "label": 3720530.572549025,
                   "month": 4,
                   "year": 2018
             }
@@ -244,7 +244,7 @@
             "geometry": null,
             "id": "40",
             "properties": {
-                  "built": 1015947.2509803912,
+                  "label": 3571752.0117647094,
                   "month": 5,
                   "year": 2018
             }
@@ -254,7 +254,7 @@
             "geometry": null,
             "id": "41",
             "properties": {
-                  "built": 10791.51764705884,
+                  "label": 3647862.0784313716,
                   "month": 6,
                   "year": 2018
             }
@@ -264,7 +264,7 @@
             "geometry": null,
             "id": "43",
             "properties": {
-                  "built": 0,
+                  "label": 3654195.0666666655,
                   "month": 8,
                   "year": 2018
             }
@@ -274,7 +274,7 @@
             "geometry": null,
             "id": "44",
             "properties": {
-                  "built": 23187.505882352998,
+                  "label": 3662589.3803921547,
                   "month": 9,
                   "year": 2018
             }
@@ -284,7 +284,7 @@
             "geometry": null,
             "id": "45",
             "properties": {
-                  "built": 1463900.8901960785,
+                  "label": 3502221.431372554,
                   "month": 10,
                   "year": 2018
             }
@@ -294,7 +294,7 @@
             "geometry": null,
             "id": "46",
             "properties": {
-                  "built": 1535682.4039215695,
+                  "label": 3472142.184313731,
                   "month": 11,
                   "year": 2018
             }
@@ -304,7 +304,7 @@
             "geometry": null,
             "id": "47",
             "properties": {
-                  "built": 1496191.7058823532,
+                  "label": 3467548.282352944,
                   "month": 12,
                   "year": 2018
             }
@@ -314,7 +314,7 @@
             "geometry": null,
             "id": "48",
             "properties": {
-                  "built": 1491960.0745098048,
+                  "label": 3261742.945098043,
                   "month": 1,
                   "year": 2019
             }
@@ -324,7 +324,7 @@
             "geometry": null,
             "id": "49",
             "properties": {
-                  "built": 1520315.7725490204,
+                  "label": 3451271.015686278,
                   "month": 2,
                   "year": 2019
             }
@@ -334,7 +334,7 @@
             "geometry": null,
             "id": "50",
             "properties": {
-                  "built": 1331023.6666666672,
+                  "label": 3400179.086274514,
                   "month": 3,
                   "year": 2019
             }
@@ -344,7 +344,7 @@
             "geometry": null,
             "id": "51",
             "properties": {
-                  "built": 1447039.8235294123,
+                  "label": 3542711.8352941223,
                   "month": 4,
                   "year": 2019
             }
@@ -354,7 +354,7 @@
             "geometry": null,
             "id": "52",
             "properties": {
-                  "built": 1608438.8039215698,
+                  "label": 3960598.552941184,
                   "month": 5,
                   "year": 2019
             }
@@ -364,7 +364,7 @@
             "geometry": null,
             "id": "53",
             "properties": {
-                  "built": 51073.4745098039,
+                  "label": 3956017.003921572,
                   "month": 6,
                   "year": 2019
             }
@@ -374,7 +374,7 @@
             "geometry": null,
             "id": "54",
             "properties": {
-                  "built": 0,
+                  "label": 3957544.0549019645,
                   "month": 7,
                   "year": 2019
             }
@@ -384,7 +384,7 @@
             "geometry": null,
             "id": "55",
             "properties": {
-                  "built": 0,
+                  "label": 3957544.054901964,
                   "month": 8,
                   "year": 2019
             }
@@ -394,7 +394,7 @@
             "geometry": null,
             "id": "56",
             "properties": {
-                  "built": 8663.709803921574,
+                  "label": 3956349.8549019643,
                   "month": 9,
                   "year": 2019
             }
@@ -404,7 +404,7 @@
             "geometry": null,
             "id": "57",
             "properties": {
-                  "built": 384.15294117647045,
+                  "label": 3956307.6745098075,
                   "month": 10,
                   "year": 2019
             }
@@ -414,7 +414,7 @@
             "geometry": null,
             "id": "58",
             "properties": {
-                  "built": 1194653.2431372553,
+                  "label": 3689800.0078431414,
                   "month": 11,
                   "year": 2019
             }
@@ -424,7 +424,7 @@
             "geometry": null,
             "id": "59",
             "properties": {
-                  "built": 117084.13725490161,
+                  "label": 3693823.0470588244,
                   "month": 12,
                   "year": 2019
             }
@@ -434,7 +434,7 @@
             "geometry": null,
             "id": "60",
             "properties": {
-                  "built": 1610327.9686274522,
+                  "label": 3527783.7960784365,
                   "month": 1,
                   "year": 2020
             }
@@ -444,7 +444,7 @@
             "geometry": null,
             "id": "61",
             "properties": {
-                  "built": 1523673.3607843146,
+                  "label": 3501238.952941181,
                   "month": 2,
                   "year": 2020
             }
@@ -454,7 +454,7 @@
             "geometry": null,
             "id": "62",
             "properties": {
-                  "built": 1572776.2745098048,
+                  "label": 3591647.0274509853,
                   "month": 3,
                   "year": 2020
             }
@@ -464,7 +464,7 @@
             "geometry": null,
             "id": "63",
             "properties": {
-                  "built": 1636281.1411764715,
+                  "label": 3787053.890196084,
                   "month": 4,
                   "year": 2020
             }
@@ -474,7 +474,7 @@
             "geometry": null,
             "id": "64",
             "properties": {
-                  "built": 120514.79215686262,
+                  "label": 3772955.415686276,
                   "month": 5,
                   "year": 2020
             }
@@ -484,7 +484,7 @@
             "geometry": null,
             "id": "66",
             "properties": {
-                  "built": 80890.16078431359,
+                  "label": 3721329.1803921545,
                   "month": 7,
                   "year": 2020
             }
@@ -494,7 +494,7 @@
             "geometry": null,
             "id": "69",
             "properties": {
-                  "built": 1417207.7176470587,
+                  "label": 3810486.1529411813,
                   "month": 10,
                   "year": 2020
             }
@@ -504,7 +504,7 @@
             "geometry": null,
             "id": "70",
             "properties": {
-                  "built": 116863.49019607756,
+                  "label": 3592489.811764704,
                   "month": 11,
                   "year": 2020
             }
@@ -514,7 +514,7 @@
             "geometry": null,
             "id": "71",
             "properties": {
-                  "built": 1513390.6666666674,
+                  "label": 3509020.9372549085,
                   "month": 12,
                   "year": 2020
             }
@@ -524,7 +524,7 @@
             "geometry": null,
             "id": "72",
             "properties": {
-                  "built": 1686144.2588235305,
+                  "label": 3553429.647058829,
                   "month": 1,
                   "year": 2021
             }
@@ -534,7 +534,7 @@
             "geometry": null,
             "id": "73",
             "properties": {
-                  "built": 1642837.2823529425,
+                  "label": 3522383.207843142,
                   "month": 2,
                   "year": 2021
             }
@@ -544,7 +544,7 @@
             "geometry": null,
             "id": "74",
             "properties": {
-                  "built": 1629566.7098039226,
+                  "label": 3669371.372549025,
                   "month": 3,
                   "year": 2021
             }
@@ -554,7 +554,7 @@
             "geometry": null,
             "id": "75",
             "properties": {
-                  "built": 732777.2196078427,
+                  "label": 3744567.066666668,
                   "month": 4,
                   "year": 2021
             }
@@ -564,7 +564,7 @@
             "geometry": null,
             "id": "76",
             "properties": {
-                  "built": 1260558.4862745097,
+                  "label": 4034787.1294117738,
                   "month": 5,
                   "year": 2021
             }
@@ -574,7 +574,7 @@
             "geometry": null,
             "id": "77",
             "properties": {
-                  "built": 944243.8196078393,
+                  "label": 4073554.6235294105,
                   "month": 6,
                   "year": 2021
             }
@@ -584,7 +584,7 @@
             "geometry": null,
             "id": "80",
             "properties": {
-                  "built": 0,
+                  "label": 4060769.9215686154,
                   "month": 9,
                   "year": 2021
             }
@@ -594,7 +594,7 @@
             "geometry": null,
             "id": "81",
             "properties": {
-                  "built": 0,
+                  "label": 4060769.9215686154,
                   "month": 10,
                   "year": 2021
             }
@@ -604,7 +604,7 @@
             "geometry": null,
             "id": "83",
             "properties": {
-                  "built": 1692584.0000000014,
+                  "label": 3494495.4117647116,
                   "month": 12,
                   "year": 2021
             }
@@ -614,7 +614,7 @@
             "geometry": null,
             "id": "84",
             "properties": {
-                  "built": 1722052.6392156873,
+                  "label": 3632853.2823529467,
                   "month": 1,
                   "year": 2022
             }
@@ -624,7 +624,7 @@
             "geometry": null,
             "id": "85",
             "properties": {
-                  "built": 1702611.9137254916,
+                  "label": 3741285.784313732,
                   "month": 2,
                   "year": 2022
             }
@@ -634,7 +634,7 @@
             "geometry": null,
             "id": "86",
             "properties": {
-                  "built": 1615970.3294117658,
+                  "label": 3721881.552941182,
                   "month": 3,
                   "year": 2022
             }
@@ -644,7 +644,7 @@
             "geometry": null,
             "id": "87",
             "properties": {
-                  "built": 1351641.0549019594,
+                  "label": 3857765.176470592,
                   "month": 4,
                   "year": 2022
             }
@@ -654,7 +654,7 @@
             "geometry": null,
             "id": "88",
             "properties": {
-                  "built": 1070523.1450980378,
+                  "label": 3992011.4627450993,
                   "month": 5,
                   "year": 2022
             }
@@ -664,7 +664,7 @@
             "geometry": null,
             "id": "89",
             "properties": {
-                  "built": 276194.4549019586,
+                  "label": 3872109.1686274447,
                   "month": 6,
                   "year": 2022
             }
@@ -674,7 +674,7 @@
             "geometry": null,
             "id": "90",
             "properties": {
-                  "built": 4437.427450980392,
+                  "label": 3926672.3686274355,
                   "month": 7,
                   "year": 2022
             }
@@ -684,7 +684,7 @@
             "geometry": null,
             "id": "91",
             "properties": {
-                  "built": 69220.70980392123,
+                  "label": 3925238.1803921373,
                   "month": 8,
                   "year": 2022
             }
@@ -694,7 +694,7 @@
             "geometry": null,
             "id": "92",
             "properties": {
-                  "built": 1332849.7215686273,
+                  "label": 3550441.058823533,
                   "month": 9,
                   "year": 2022
             }
@@ -704,7 +704,7 @@
             "geometry": null,
             "id": "93",
             "properties": {
-                  "built": 1768636.1411764717,
+                  "label": 3651734.2745098104,
                   "month": 10,
                   "year": 2022
             }
@@ -714,7 +714,7 @@
             "geometry": null,
             "id": "94",
             "properties": {
-                  "built": 66078.08235294116,
+                  "label": 3159097.5843137247,
                   "month": 11,
                   "year": 2022
             }
@@ -724,7 +724,7 @@
             "geometry": null,
             "id": "95",
             "properties": {
-                  "built": 1795670.105882354,
+                  "label": 3416956.858823535,
                   "month": 12,
                   "year": 2022
             }
@@ -734,7 +734,7 @@
             "geometry": null,
             "id": "96",
             "properties": {
-                  "built": 1785267.8941176485,
+                  "label": 3743983.694117653,
                   "month": 1,
                   "year": 2023
             }
@@ -744,7 +744,7 @@
             "geometry": null,
             "id": "97",
             "properties": {
-                  "built": 1759362.9960784325,
+                  "label": 3824819.9450980453,
                   "month": 2,
                   "year": 2023
             }
@@ -754,28 +754,8 @@
             "geometry": null,
             "id": "98",
             "properties": {
-                  "built": 1752668.960784315,
+                  "label": 4011494.01960785,
                   "month": 3,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "99",
-            "properties": {
-                  "built": 1907012.192156864,
-                  "month": 4,
-                  "year": 2023
-            }
-      },
-      {
-            "type": "Feature",
-            "geometry": null,
-            "id": "100",
-            "properties": {
-                  "built": 1686297.4078431383,
-                  "month": 5,
                   "year": 2023
             }
       }

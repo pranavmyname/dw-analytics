@@ -66,10 +66,20 @@ def index():
               }
     is_run_files = request.args.get("view","")
     print(is_run_files)
-    if(is_run_files!=""):
-        selected_option = request.args.get('x_axis', "")
-        print(selected_option)
-        months_box = get_months_box_bool(request.args.getlist("month", None))
+    selected_option = request.args.get('x_axis', selected_option, type=str)
+    month_req = get_months_box_bool(request.args.getlist("month", None))
+    if month_req is not None:
+        months_box = month_req
+    if(any(key.startswith("chart_") for key in request.form.keys())):
+        keys = request.form.keys()
+        print("******")
+        for key in keys:
+            save_path = request.form.get(key, "")
+            print(save_path)
+            if(save_path != ""):
+                band_idx = bands.index(key.replace("chart_", ""))
+                os.makedirs(os.path.dirname(save_path), exist_ok=True)
+                print(bands[band_idx])
     if(is_run_files=="Advanced"):
         for idx, band in enumerate(bands):
             df = df_list[idx]
@@ -95,4 +105,4 @@ def advanced_view():
     return render_template('index.html', image_data = image_data, bands = bands, months_box = months_box)
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8080, debug=True)
+    app.run(host="127.0.0.1", port=8080)

@@ -1,0 +1,62 @@
+[
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2015",
+            "properties": {
+                  "month": "01",
+                  "year": "2015",
+                  "label": 16545764626.83879
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2016",
+            "properties": {
+                  "month": "01",
+                  "year": "2016",
+                  "label": 17224300728.462536
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2017",
+            "properties": {
+                  "month": "01",
+                  "year": "2017",
+                  "label": 17817532211.011204
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2018",
+            "properties": {
+                  "month": "01",
+                  "year": "2018",
+                  "label": 18342131207.531834
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2019",
+            "properties": {
+                  "month": "01",
+                  "year": "2019",
+                  "label": 18743292662.027203
+            }
+      },
+      {
+            "type": "Feature",
+            "geometry": null,
+            "id": "EC2019",
+            "properties": {
+                  "month": "01",
+                  "year": "2020",
+                  "label": 15820241095
+            }
+      }
+]

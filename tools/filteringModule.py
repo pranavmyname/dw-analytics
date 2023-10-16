@@ -65,7 +65,7 @@ def computeMonthlyMedians(collection, year_start = 2015, year_end = 2023):
     # Define a function to filter the collection by year and month and compute median
     def computeMonthlyMedian(year, month):
         filteredCollection = collection.filterDate(ee.Date.fromYMD(year, month, 1), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))
-        median = filteredCollection.mode()
+        median = filteredCollection.mean()
         # mossaic = (collection.filterDate(ee.Date.fromYMD(year, month, 1).advance(-300, 'day'), ee.Date.fromYMD(year, month, 1).advance(1, 'month').advance(-1, 'day'))).mode()
         # median.unmask(mossaic)
         return median.set('month', month).set('year', year).set('system:time_start', ee.Date.fromYMD(year, month, 1).millis())
